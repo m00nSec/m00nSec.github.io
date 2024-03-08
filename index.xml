@@ -2,28 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>m00nSec Blog</title>
-    <link>https://blog.moonsec.de/</link>
+    <link>https://m00nsec.github.io/</link>
     <description>Recent content on m00nSec Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.moonsec.de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://m00nsec.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title># whoami</title>
-      <link>https://blog.moonsec.de/about/</link>
-      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.moonsec.de/about/</guid>
-      <description>Some information about myself</description>
+      <link>https://m00nsec.github.io/about/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://m00nsec.github.io/about/</guid>
+      <description>moon</description>
     </item>
-    
     <item>
       <title>Hello World!</title>
-      <link>https://blog.moonsec.de/blog/2021-12-18-hello-world/</link>
-      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.moonsec.de/blog/2021-12-18-hello-world/</guid>
+      <link>https://m00nsec.github.io/blog/2024-03-01-hello-world/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://m00nsec.github.io/blog/2024-03-01-hello-world/</guid>
       <description>#Hello World!</description>
     </item>
-    
   </channel>
 </rss>
